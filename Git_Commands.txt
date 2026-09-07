@@ -1,0 +1,8 @@
+git init [ initiliases Repository ]
+git status [ Track changes and current status ]
+git add [ adds files and foldes for staging / stages them ]
+git restore --staged [ unstages all staged changes ]
+git add . [ stages all in current directory ]
+git add --all [ stages all in project folder ]
+git add * [ stages new/modified files not deleted ]
+git commit -m "message" [ adds staged changes to local Repository ]
