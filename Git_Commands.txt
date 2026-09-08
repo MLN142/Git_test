@@ -13,3 +13,4 @@ git log [ log of commits ]
 git branch [ shows list of all branches ]
 git branch BranchName [ create new branch ]
 git checkout BranchName [ move to another branch ]
+git merge BranchName -m "message"
