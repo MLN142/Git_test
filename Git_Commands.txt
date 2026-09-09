@@ -15,3 +15,8 @@ git branch BranchName [ create new branch ]
 git checkout BranchName [ move to another branch ]
 git merge BranchName -m "message"
 git checkout CommitID [ rollback to previous commit ]
+git diff [ shows the different changes ]
+git dff id1 id2 [ shows difference between two commits ]
+git push Remote Branch [ pushes changes to remote repository ]
+git pull Remote Branch [ pull chages from remote repository and merges ]
+git fetch Remote Branch [ fetches changes from remote repository and does not merge ]
